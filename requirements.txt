@@ -1,0 +1,6 @@
+# Core GUI stack
+PyQt6>=6.9.0
+
+# Numeric & plotting helpers (extend as needed)
+numpy>=2.2.0
+matplotlib>=3.10.0
