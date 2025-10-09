@@ -6,7 +6,7 @@ Python experience with live 2D and 3D plots, editable geometry constants, and on
 metrics.
 
 <p align="center">
-  ![Myring Profile Explorer UI](resources/App_Screenshot.jpg)
+  <img src="resources/App_Screenshot.jpg" alt="Myring Profile Explorer UI" width="900"/>
 </p>
 
 ---
