@@ -31,7 +31,6 @@ metrics.
 > The project ships with a local virtual environment (`.venv`) for isolation. Refresh it if required.
 
 ```powershell
-cd "D:\Office work\UL\Control\Python\gui_app"
 .venv\Scripts\Activate.ps1                    # Activate the bundled venv
 python -m pip install -r requirements.txt     # Install dependencies (first run)
 python -m src.app.main                        # Launch the GUI
